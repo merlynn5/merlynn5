@@ -2,8 +2,9 @@
 - 👀 I’m interested in data analysys and programming in python for learn how to extract, process, visualize, and communicate relevant information from the data generated daily in various fields
 - 🌱 I’m still learning data analysis and python.
 - I’m currently training as a **Full Stack Developer**, focusing on:  
-🚀 **Frontend:** JavaScript, React, Tailwind CSS  
-🛠 **Backend:** Java, Python, Django  
+🚀 **Frontend:** JavaScript, React, Tailwind CSS
+**Middleware:** FastApi, Postman
+🛠 **Backend:** Python  
 - 💞️ I’m looking to collaborate on future projects!
 - 📫 How to reach me on Linkedin www.linkedin.com/in/linda-maldonado-paredes
 - 😄 Pronouns: She/her
