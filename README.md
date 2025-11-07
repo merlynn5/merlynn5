@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merlynn5
 - 👀 I’m interested in data analysys and programming in python for learn how to extract, process, visualize, and communicate relevant information from the data generated daily in various fields
-- 🌱 I’m currently learning data analysis and python.
+- 🌱 I’m still learning data analysis and python.
 - I’m currently training as a **Full Stack Developer**, focusing on:  
 🚀 **Frontend:** JavaScript, React, Tailwind CSS  
 🛠 **Backend:** Java, Python, Django  
